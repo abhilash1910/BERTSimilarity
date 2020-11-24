@@ -38,6 +38,7 @@ A sample of semantic similarity measurement with 4 different sentences , 2 of wh
 
 <img src='https://github.com/abhilash1910/BERTSimilarity/blob/master/Sample_Similarity.PNG'>
 
+This [Colab Notebook](https://colab.research.google.com/drive/1OfFYGRdW3I8cMxL6Nj4KZd78PoiR4Lg0?usp=sharing) can be used as well for experimentation. 
 
 ## Contributing
 
