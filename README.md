@@ -36,7 +36,7 @@ The  'Similarity_Test.py' file contains an example of using the Library in this 
 
 A sample of semantic similarity measurement with 4 different sentences , 2 of which are vaguely similar is provided below:
 
-<img src=''>
+<img src='https://github.com/abhilash1910/BERTSimilarity/blob/master/Sample_Similarity.PNG'>
 
 
 ## Contributing
