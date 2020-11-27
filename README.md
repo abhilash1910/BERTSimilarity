@@ -40,6 +40,8 @@ A sample of semantic similarity measurement with 4 different sentences , 2 of wh
 
 This [Colab Notebook](https://colab.research.google.com/drive/1OfFYGRdW3I8cMxL6Nj4KZd78PoiR4Lg0?usp=sharing) can be used as well for experimentation. 
 
+A Kaggle Kernel for [Question Pair Similarity](https://www.kaggle.com/abhilash1910/bertsimilarity-library) detection is also provided which uses this library.
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
