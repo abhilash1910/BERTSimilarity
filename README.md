@@ -42,6 +42,8 @@ This [Colab Notebook](https://colab.research.google.com/drive/1OfFYGRdW3I8cMxL6N
 
 A Kaggle Kernel for [Question Pair Similarity](https://www.kaggle.com/abhilash1910/bertsimilarity-library) detection is also provided which uses this library.
 
+The Notebook is featured in [QuantumStat.com](https://notebooks.quantumstat.com/)
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
